@@ -1,5 +1,7 @@
 # CheckSelect
+<i>Paper:</i> [CheckSelect: Online Checkpoint Selection for Flexible, Accurate, Robust, and Efficient Data Valuation]([https://drive.google.com/file/d/1PkG-5uKfNc0arw6sswmLbfMvul3-FjuV/view?usp=drive_link])
 
+<i>Authors:</i> Soumi Das, Manasvi Sagarkar, Suparna Bhattacharya, Sourangshu Bhattacharya
 # Getting Started
 
 Run the following commands to setup the environment:
